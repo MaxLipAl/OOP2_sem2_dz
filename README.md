@@ -1,1 +1,1 @@
-# OOP2_sem2_dz
+# DZ2
